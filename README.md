@@ -26,4 +26,5 @@ Uruchomi się okno kontrolera robożółwia turtlesim, który umożliwa poruszan
 Dodatkowe zasoby, które mogą być pomocne:
 
 Dokumentacja ROS2 - https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
+
 Dokumentacja turtlesim - https://wiki.ros.org/turtlesim
