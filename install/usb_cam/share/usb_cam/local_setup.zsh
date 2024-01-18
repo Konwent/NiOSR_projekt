@@ -1,0 +1,1 @@
+/home/ros2/ros2_ws/build/usb_cam/ament_cmake_environment_hooks/local_setup.zsh

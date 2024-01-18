@@ -1,0 +1,4 @@
+Invoking command in '/home/ros2/ros2_ws/build/usb_cam': CMAKE_PREFIX_PATH=/home/ros2/ros2_ws/install/camera_subscriber:/opt/ros/humble /usr/bin/cmake --build /home/ros2/ros2_ws/build/usb_cam -- -j4 -l4
+Invoked command in '/home/ros2/ros2_ws/build/usb_cam' returned '0': CMAKE_PREFIX_PATH=/home/ros2/ros2_ws/install/camera_subscriber:/opt/ros/humble /usr/bin/cmake --build /home/ros2/ros2_ws/build/usb_cam -- -j4 -l4
+Invoking command in '/home/ros2/ros2_ws/build/usb_cam': CMAKE_PREFIX_PATH=/home/ros2/ros2_ws/install/camera_subscriber:/opt/ros/humble /usr/bin/cmake --install /home/ros2/ros2_ws/build/usb_cam
+Invoked command in '/home/ros2/ros2_ws/build/usb_cam' returned '0': CMAKE_PREFIX_PATH=/home/ros2/ros2_ws/install/camera_subscriber:/opt/ros/humble /usr/bin/cmake --install /home/ros2/ros2_ws/build/usb_cam

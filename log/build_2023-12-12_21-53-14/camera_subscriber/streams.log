@@ -1,0 +1,21 @@
+[0.725s] Invoking command in '/home/ros2/ros2_ws/build/camera_subscriber': PYTHONPATH=/home/ros2/ros2_ws/build/camera_subscriber/prefix_override:/home/ros2/ros2_ws/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ros2/ros2_ws/build/camera_subscriber/build --no-deps install_data
+[0.961s] running develop
+[0.961s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.961s]   warnings.warn(
+[0.962s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.962s]   warnings.warn(
+[1.075s] running egg_info
+[1.075s] writing camera_subscriber.egg-info/PKG-INFO
+[1.076s] writing dependency_links to camera_subscriber.egg-info/dependency_links.txt
+[1.076s] writing entry points to camera_subscriber.egg-info/entry_points.txt
+[1.077s] writing requirements to camera_subscriber.egg-info/requires.txt
+[1.077s] writing top-level names to camera_subscriber.egg-info/top_level.txt
+[1.079s] reading manifest file 'camera_subscriber.egg-info/SOURCES.txt'
+[1.080s] writing manifest file 'camera_subscriber.egg-info/SOURCES.txt'
+[1.082s] running build_ext
+[1.082s] Creating /home/ros2/ros2_ws/install/camera_subscriber/lib/python3.10/site-packages/camera-subscriber.egg-link (link to .)
+[1.083s] Installing camera_node script to /home/ros2/ros2_ws/install/camera_subscriber/lib/camera_subscriber
+[1.083s] 
+[1.083s] Installed /home/ros2/ros2_ws/build/camera_subscriber
+[1.083s] running install_data
+[1.162s] Invoked command in '/home/ros2/ros2_ws/build/camera_subscriber' returned '0': PYTHONPATH=/home/ros2/ros2_ws/build/camera_subscriber/prefix_override:/home/ros2/ros2_ws/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/ros2/ros2_ws/build/camera_subscriber/build --no-deps install_data

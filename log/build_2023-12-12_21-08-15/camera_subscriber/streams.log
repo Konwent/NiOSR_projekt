@@ -1,0 +1,39 @@
+[0.608s] Invoking command in '/home/ros2/ros2_ws/src/camera_subscriber': PYTHONPATH=/home/ros2/ros2_ws/build/camera_subscriber/prefix_override:/home/ros2/ros2_ws/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera_subscriber build --build-base /home/ros2/ros2_ws/build/camera_subscriber/build install --record /home/ros2/ros2_ws/build/camera_subscriber/install.log --single-version-externally-managed
+[0.815s] running egg_info
+[0.816s] creating ../../build/camera_subscriber/camera_subscriber.egg-info
+[0.816s] writing ../../build/camera_subscriber/camera_subscriber.egg-info/PKG-INFO
+[0.816s] writing dependency_links to ../../build/camera_subscriber/camera_subscriber.egg-info/dependency_links.txt
+[0.816s] writing entry points to ../../build/camera_subscriber/camera_subscriber.egg-info/entry_points.txt
+[0.816s] writing requirements to ../../build/camera_subscriber/camera_subscriber.egg-info/requires.txt
+[0.816s] writing top-level names to ../../build/camera_subscriber/camera_subscriber.egg-info/top_level.txt
+[0.817s] writing manifest file '../../build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[0.818s] reading manifest file '../../build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[0.822s] writing manifest file '../../build/camera_subscriber/camera_subscriber.egg-info/SOURCES.txt'
+[0.822s] running build
+[0.822s] running build_py
+[0.822s] creating /home/ros2/ros2_ws/build/camera_subscriber/build
+[0.822s] creating /home/ros2/ros2_ws/build/camera_subscriber/build/lib
+[0.822s] creating /home/ros2/ros2_ws/build/camera_subscriber/build/lib/camera_subscriber
+[0.822s] copying camera_subscriber/camera_node.py -> /home/ros2/ros2_ws/build/camera_subscriber/build/lib/camera_subscriber
+[0.822s] copying camera_subscriber/__init__.py -> /home/ros2/ros2_ws/build/camera_subscriber/build/lib/camera_subscriber
+[0.822s] running install
+[0.822s] running install_lib
+[0.822s] creating /home/ros2/ros2_ws/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber
+[0.823s] copying /home/ros2/ros2_ws/build/camera_subscriber/build/lib/camera_subscriber/camera_node.py -> /home/ros2/ros2_ws/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber
+[0.823s] copying /home/ros2/ros2_ws/build/camera_subscriber/build/lib/camera_subscriber/__init__.py -> /home/ros2/ros2_ws/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber
+[0.823s] byte-compiling /home/ros2/ros2_ws/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber/camera_node.py to camera_node.cpython-310.pyc
+[0.823s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.823s]   warnings.warn(
+[0.823s] byte-compiling /home/ros2/ros2_ws/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber/__init__.py to __init__.cpython-310.pyc
+[0.823s] running install_data
+[0.824s] creating /home/ros2/ros2_ws/install/camera_subscriber/share/ament_index
+[0.824s] creating /home/ros2/ros2_ws/install/camera_subscriber/share/ament_index/resource_index
+[0.824s] creating /home/ros2/ros2_ws/install/camera_subscriber/share/ament_index/resource_index/packages
+[0.824s] copying resource/camera_subscriber -> /home/ros2/ros2_ws/install/camera_subscriber/share/ament_index/resource_index/packages
+[0.824s] copying package.xml -> /home/ros2/ros2_ws/install/camera_subscriber/share/camera_subscriber
+[0.824s] running install_egg_info
+[0.826s] Copying ../../build/camera_subscriber/camera_subscriber.egg-info to /home/ros2/ros2_ws/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber-0.0.0-py3.10.egg-info
+[0.827s] running install_scripts
+[0.847s] Installing camera_node script to /home/ros2/ros2_ws/install/camera_subscriber/lib/camera_subscriber
+[0.847s] writing list of installed files to '/home/ros2/ros2_ws/build/camera_subscriber/install.log'
+[0.878s] Invoked command in '/home/ros2/ros2_ws/src/camera_subscriber' returned '0': PYTHONPATH=/home/ros2/ros2_ws/build/camera_subscriber/prefix_override:/home/ros2/ros2_ws/install/camera_subscriber/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera_subscriber build --build-base /home/ros2/ros2_ws/build/camera_subscriber/build install --record /home/ros2/ros2_ws/build/camera_subscriber/install.log --single-version-externally-managed
