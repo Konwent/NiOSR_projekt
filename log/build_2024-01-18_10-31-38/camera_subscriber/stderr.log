@@ -1,7 +1,0 @@
-/usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
-  warnings.warn(
-  File "/home/ros2/ros2_ws/install/camera_subscriber/lib/python3.10/site-packages/camera_subscriber/camera_node.py", line 1
-    !/usr/bin/env python3
-    ^
-SyntaxError: invalid syntax
-

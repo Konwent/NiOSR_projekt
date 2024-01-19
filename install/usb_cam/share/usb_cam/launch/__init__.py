@@ -1,1 +1,0 @@
-/home/ros2/ros2_ws/src/usb_cam/launch/__init__.py
